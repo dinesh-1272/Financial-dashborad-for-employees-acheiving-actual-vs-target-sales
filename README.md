@@ -1,6 +1,6 @@
 # Financial Dashboard - Detailed Overview
 
-![Financial Dashboard]([image_url_here](https://github.com/dinesh-1272/Financial-dashborad-for-employees-acheiving-actual-vs-target-sales/blob/main/Dashboard%20Image.png))
+![Financial Dashboard](https://github.com/dinesh-1272/Financial-dashborad-for-employees-acheiving-actual-vs-target-sales/blob/main/Dashboard%20Image.png)
 
 ## Introduction
 
